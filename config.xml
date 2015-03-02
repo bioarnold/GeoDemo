@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <name>PhoneGap GEO demo by BioArnold</name>
+
+    <description>
+        A phonegap geo demo. 
+    </description>
+
+    <gap:plugin name="fi.avaus.cordova.geolocation" version="0.3.11" />
+</widget>
